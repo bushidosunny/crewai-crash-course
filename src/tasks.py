@@ -67,3 +67,6 @@ class MeetingPrepTasks():
 				strategic recommendations."""),
 			agent=agent
 		)
+  
+  des=dedent(f"""
+             as;dlkfjas;ldkfjsd""")
